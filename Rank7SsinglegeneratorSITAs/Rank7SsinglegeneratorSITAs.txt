@@ -437,11 +437,11 @@ g2:=PermutationMat((4,5),6);
 G:=Group([g1,g2]); 
 
 L := [];;
-for N in [35..250] do Print("                                       \n \n N=",N,"\n \n"); 
+for N in [45..250] do Print("                                       \n \n N=",N,"\n \n"); 
 
 #N:=250;
 
-for k1 in [12] do A2:=[]; M2:=k1^2-k1; M2:=Minimum(M2,N-k1-5); 
+for k1 in [12] do A2:=[]; M2:=k1^2-k1; M2:=Minimum(M2,N-k1-5); indexing_var :=0;
 for k2 in [1..M2] do M3:=Maximum(M2,k1*k2); M3:=Maximum(M3,k2^2-k2); M3:=Minimum(M3,N-k1-k2-4);
 for k3 in [1..M3] do M4:=Maximum(M3,k1*k3); M4:=Minimum(M4,k2*k3); M4:=Maximum(M4,k3^2-k3); M4:=Minimum(M4,N-k1-k2-k3-3);
 for k4 in [k3..M4] do M5:=Maximum(M4,k1*k4); M5:=Maximum(M5,k2*k4); M5:=Maximum(M5,k3*k4); M5:=Maximum(M5,k4^2-k4);  
