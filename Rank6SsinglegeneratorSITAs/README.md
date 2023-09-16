@@ -1,5 +1,5 @@
 # Rank6SsinglegeneratorSITAs
-This data gives the singly generated standard integral table algebras of rank $6S$, up to order $250$. 
+This data gives the singly generated standard integral table algebras of rank $6S$, up to order $20$. 
 The following notation has been used in the status column in the Markdown Table:\\
 AS:  the program constructed a scheme for this parameter set.  So those are realizable as Association schemes.\\
 HL-TA: it failed the handshaking lemma, so program could not start.So, they are not realizable.\\ 
