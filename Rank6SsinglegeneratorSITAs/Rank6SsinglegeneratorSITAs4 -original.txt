@@ -286,7 +286,7 @@ g1:=PermutationMat((4,5,6),6);
 g2:=PermutationMat((4,5),6); 
 G:=Group([g1,g2]); 
 
-for N in [6..20] do Print("                                       \n \n N=",N,"\n \n"); 
+for N in [13..21] do Print("                                       \n \n N=",N,"\n \n"); 
 
 for k1 in [2..N-5] do A2:=[]; M2:=k1^2-k1; M2:=Minimum(M2,N-k1-4); 
 for k2 in [1..M2] do M3:=Maximum(k1*k2,k1^2-k1); M3:=Minimum(M3,N-k1-k2-3);
