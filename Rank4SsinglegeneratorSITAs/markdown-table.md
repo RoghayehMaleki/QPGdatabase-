@@ -1,6 +1,5 @@
  |Order|Degree|Degree sequence |Minimal polynomial| Details|Existence|
 |:---|:---|:--------: |:---------:| :---:| :----:|
-
 |35|6|[ 6, 24, 4 ]|[ x-6, x+1, x^2-6 ]| [link](data6-35-16.txt)| AS |
 |35|12|[ 12, 4, 18 ]|[ x-12, x-3, x+2, x+3 ]| [link](data12-35-12.txt)| - |
 |35|12|[ 12, 6, 16 ]|[ x-12, x+2, x^2-4*x-6 ]| [link](data12-35-15.txt)| - |
