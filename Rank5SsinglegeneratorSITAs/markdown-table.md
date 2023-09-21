@@ -1,6 +1,5 @@
  |Order|Degree|Degree sequence |Minimal polynomial| Details|Existence|
 |:---|:---|:--------: |:---------:| :---:| :----:|
-
 |8|2|[ 2, 2, 1, 2 ]|[ x-2, x, x+2, x^2-2]| [link](data2-8-1.txt)| AS |
 |9|2|[ 2, 2, 2, 2 ]|[ x-2, x+1, x^3-3*x+1]| [link](data2-9-1.txt)| AS |
 |9|2|[ 2, 2, 2, 2 ]|[ x-2, x+1, x^3-3*x+1]| [link](data2-9-2.txt)| AS |
