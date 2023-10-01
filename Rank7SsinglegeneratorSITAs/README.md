@@ -12,4 +12,6 @@ TA-xR: table algebra that is not realizable by the classification or because it 
 
 -: table algebra that passes the feasibility conditions and the realizability is still open.
 
+F: when the code tries to check if the given example is an association scheme or no, but it stops at some value > 0. 
+
 To see the table, click [here](https://github.com/RoghayehMaleki/QPGdatabase-/blob/main/Rank7SsinglegeneratorSITAs/markdown-table.md)
