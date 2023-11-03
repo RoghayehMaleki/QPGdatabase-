@@ -220,7 +220,7 @@ if I1=true then
 indexing_var := indexing_var +1;
 #n:=1+k1+k2+k3;
 #if n>90 then
-if n in [6..57] then
+if n in [50..60] then
 
 Print(n,[[k1,k2,k3],[p112,p113,p123,p223]],"\n"); 
 
