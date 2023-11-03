@@ -1,5 +1,5 @@
 # Rank4SsinglegeneratorSITAs
-This data gives the singly generated standard integral table algebras of order up to $40$. 
+This data gives the singly generated standard integral table algebras of order up to $60$. 
 The following notation has been used in the existence column in the Markdown Table:
 
 AS: the program constructed a scheme for this parameter set.  So those are realizable as Association schemes.
