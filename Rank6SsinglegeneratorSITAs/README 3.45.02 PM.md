@@ -1,5 +1,5 @@
 # Rank6SsinglegeneratorSITAs
-This data gives the singly generated standard integral table algebras of rank $6S$, up to order $60$, and rank $12$. 
+This data gives the singly generated standard integral table algebras of rank $6S$, up to order $60$ and valency $12$. 
 The following notation has been used in the existence column in the Markdown Table:
 
 AS: the program constructed a scheme for this parameter set.  So those are realizable as Association schemes.
@@ -15,3 +15,5 @@ TA-xR: table algebra that is not realizable by the classification or because it 
 F: when the code tries to check if the given example is an association scheme or no, but it stops at some value > 0. 
 
 To see the table, click [here](https://github.com/RoghayehMaleki/QPGdatabase-/blob/main/Rank6SsinglegeneratorSITAs/markdown-table.md)
+
+# Data for valency $12$ is complete up to order $250$ and it is given in this [file](https://github.com/RoghayehMaleki/QPGdatabase-/blob/main/Rank6SsinglegeneratorSITAs/Rank6SqpgData.txt).
