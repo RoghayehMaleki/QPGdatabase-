@@ -1,6 +1,5 @@
 # Rank5SsinglegeneratorSITAs
 
-
 This data gives the singly generated standard integral table algebras of rank $5S$, up to order $60$ valency $12$. 
 The following notation has been used in the existence column in the Markdown Table:
 
@@ -18,4 +17,4 @@ F: when the code tries to check if the given example is an association scheme or
 
 To see the table, click [here](https://github.com/RoghayehMaleki/QPGdatabase-/blob/main/Rank5SsinglegeneratorSITAs/markdown-table.md)
 
- The data for valency $12$ is complete up to order $250$ and it is given in this [file](https://raw.githubusercontent.com/RoghayehMaleki/QPGdatabase-/main/Rank5SsinglegeneratorSITAs/Rank5SqpgData.txt).
+ The data for valency $12$ is complete up to order $250$ and it is given in this [file](https:// github.com raw./RoghayehMaleki/QPGdatabase-/blob/Rank5SsinglegeneratorSITAs/Rank5SqpgData.txt).
