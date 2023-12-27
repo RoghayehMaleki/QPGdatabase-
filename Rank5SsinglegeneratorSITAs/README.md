@@ -17,3 +17,5 @@ TA-xR: table algebra that is not realizable by the classification or because it 
 F: when the code tries to check if the given example is an association scheme or no, but it stops at some value > 0. 
 
 To see the table, click [here](https://github.com/RoghayehMaleki/QPGdatabase-/blob/main/Rank5SsinglegeneratorSITAs/markdown-table.md)
+
+ The data for valency $12$ is complete up to order $250$ and it is given in this [file](https://github.com/RoghayehMaleki/QPGdatabase-/blob/main/Rank5SsinglegeneratorSITAs/Rank5SqpgData.txt).

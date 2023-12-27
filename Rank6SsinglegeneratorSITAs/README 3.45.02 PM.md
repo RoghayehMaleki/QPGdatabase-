@@ -16,4 +16,4 @@ F: when the code tries to check if the given example is an association scheme or
 
 To see the table, click [here](https://github.com/RoghayehMaleki/QPGdatabase-/blob/main/Rank6SsinglegeneratorSITAs/markdown-table.md)
 
- Data for valency $12$ is complete up to order $250$ and it is given in this [file](https://github.com/RoghayehMaleki/QPGdatabase-/blob/main/Rank6SsinglegeneratorSITAs/Rank6SqpgData.txt).
+ The data for valency $12$ is complete up to order $250$ and it is given in this [file](https://github.com/RoghayehMaleki/QPGdatabase-/blob/main/Rank6SsinglegeneratorSITAs/Rank6SqpgData.txt).
